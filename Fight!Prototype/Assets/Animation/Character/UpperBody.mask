@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBody
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature.001
+    m_Weight: 1
+  - m_Path: Armature.001/ElbowIK.L
+    m_Weight: 1
+  - m_Path: Armature.001/ElbowIK.L/ElbowIK.L_end
+    m_Weight: 1
+  - m_Path: Armature.001/ElbowIK.R
+    m_Weight: 1
+  - m_Path: Armature.001/ElbowIK.R/ElbowIK.R_end
+    m_Weight: 1
+  - m_Path: Armature.001/Hips
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/Stomach
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Neck
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.L/Bicep.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.L/Bicep.L/ForeArm.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.L/Bicep.L/ForeArm.L/ForeArm.L_end
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.L/FK.Shoulder.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.L/FK.Shoulder.L/HandIK.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.L/FK.Shoulder.L/HandIK.L/Hand.L
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.L/FK.Shoulder.L/HandIK.L/Hand.L/Hand.L_end
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.R/Bicep.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.R/Bicep.R/ForeArm.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.R/Bicep.R/ForeArm.R/ForeArm.R_end
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.R/FK.Shoulder.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.R/FK.Shoulder.R/HandIK.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.R/FK.Shoulder.R/HandIK.R/Hand.R
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/Stomach/Chest/Shoulder.R/FK.Shoulder.R/HandIK.R/Hand.R/Hand.R_end
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/UpperLeg.L
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.L/LowerLeg.L
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.L/LowerLeg.L/LowerLeg.L_end
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.L.001
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.L.001/HeelIK.L
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.L.001/HeelIK.L/Foot.L
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.L.001/HeelIK.L/Foot.L/Foot.L_end
+    m_Weight: 1
+  - m_Path: Armature.001/Hips/UpperLeg.R
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.R/LowerLeg.R
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.R/LowerLeg.R/LowerLeg.R_end
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.R.001
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.R.001/HeelIK.R
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.R.001/HeelIK.R/Foot.R
+    m_Weight: 0
+  - m_Path: Armature.001/Hips/UpperLeg.R.001/HeelIK.R/Foot.R/Foot.R_end
+    m_Weight: 1
+  - m_Path: Armature.001/KneeIK.L
+    m_Weight: 0
+  - m_Path: Armature.001/KneeIK.L/KneeIK.L_end
+    m_Weight: 0
+  - m_Path: Armature.001/KneeIK.R
+    m_Weight: 0
+  - m_Path: Armature.001/KneeIK.R/KneeIK.R_end
+    m_Weight: 0
+  - m_Path: Body.001
+    m_Weight: 0
